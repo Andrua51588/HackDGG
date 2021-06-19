@@ -1,4 +1,4 @@
-local tab = {"Andrua51588","sans229220","KROXA0011","AYE_4el"} 
+local tab = {"Andrua51588","sans229220","KROXA0011","AYE_4el","EgorYouTuby"} 
 local val = false
 for i,v in pairs(tab) do 
 if game.Players.LocalPlayer.Name == v then 
